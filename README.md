@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Attila1617
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning C++
+- 👀 I’m a game developer
+- 🌱 Expirienced in Godot, Unity and Unreal Engine
 
 
 <!---
