@@ -1,7 +1,10 @@
-👋 Hello! I am Iskander, I am 16 years old and my hobbies are music, game development and modeling. 
-🎮 I am also a self-taught software engineer (And I have experience on the Vex V5 platform) 
+👋 Hello! I am Iskander, I am 17 years old guy from Kazakhstan.
+🎮 I am a self-taught software engineer.
+🤩 I have experience on the Vex V5 platform.
 👨‍💻 Developing my skills in full-stack development...
-📚 Experienced in Godot, Unity, and Unreal Engine 4.
+📚 Experienced in Godot, Unity, and Unreal Engine 4 & 5.
+🎵 I am also a musician and guitarist.
+🎨 Trying my best in modeling and artist works.
 
 
 <!---
