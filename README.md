@@ -7,10 +7,4 @@
 🎨 Trying my best in modeling and artist works.
 
 
-<!---
-Attila1617/Attila1617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
 ![Profile views](https://gpvc.arturio.dev/Attila1617)
-
---->
